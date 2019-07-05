@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/new-nova-ui/static/css/main.664e3d0d.chunk.css",
+    "main.js": "/new-nova-ui/static/js/main.d69dccad.chunk.js",
+    "main.js.map": "/new-nova-ui/static/js/main.d69dccad.chunk.js.map",
+    "runtime~main.js": "/new-nova-ui/static/js/runtime~main.617e3a46.js",
+    "runtime~main.js.map": "/new-nova-ui/static/js/runtime~main.617e3a46.js.map",
+    "static/js/2.b41502e9.chunk.js": "/new-nova-ui/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/new-nova-ui/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/new-nova-ui/index.html",
+    "precache-manifest.a14e17dbab1563aa564203ff60eee06c.js": "/new-nova-ui/precache-manifest.a14e17dbab1563aa564203ff60eee06c.js",
+    "service-worker.js": "/new-nova-ui/service-worker.js",
+    "static/css/main.664e3d0d.chunk.css.map": "/new-nova-ui/static/css/main.664e3d0d.chunk.css.map",
+    "static/media/index.scss": "/new-nova-ui/static/media/TedNext.b846c33a.woff2"
+  }
+}
