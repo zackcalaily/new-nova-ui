@@ -13,7 +13,9 @@ class HubContainer extends Component {
             <>
                 <h2 className="mb-4">{this.props.name}</h2> 
 
-                {this.props.subhubs.map(subhub => <Subhub key={subhub.id} name={subhub.name} links={subhub.links} />)}
+                <div className="row subhubs">
+                    {this.props.subhubs.map(subhub => <Subhub key={subhub.id} name={subhub.name} links={subhub.links} />)}
+                </div>
             </>
         )
     }
