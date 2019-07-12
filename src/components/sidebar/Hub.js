@@ -21,7 +21,7 @@ class Hub extends Component {
     render() {
         return (
             <li className="nav-item">
-                <a className="nav-link" href="#" onMouseOver={this.onHover} onMouseOut={this.onBlur}>
+                <a className="nav-link" href="#" onMouseOver={this.onHover} onMouseOut={this.onBlur} onClick={() => this.props.onClick(this.props.index)}>
                     <img ref="input" src={this.state.active_icon} width="30" height="30" alt={this.props.name} />
                     <span>{this.props.name}</span>
                 </a>
