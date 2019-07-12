@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/new-nova-ui/static/css/main.3f865fce.chunk.css",
-    "main.js": "/new-nova-ui/static/js/main.fd9c8d1a.chunk.js",
-    "main.js.map": "/new-nova-ui/static/js/main.fd9c8d1a.chunk.js.map",
+    "main.js": "/new-nova-ui/static/js/main.20893505.chunk.js",
+    "main.js.map": "/new-nova-ui/static/js/main.20893505.chunk.js.map",
     "runtime~main.js": "/new-nova-ui/static/js/runtime~main.617e3a46.js",
     "runtime~main.js.map": "/new-nova-ui/static/js/runtime~main.617e3a46.js.map",
     "static/js/2.d8f16830.chunk.js": "/new-nova-ui/static/js/2.d8f16830.chunk.js",
     "static/js/2.d8f16830.chunk.js.map": "/new-nova-ui/static/js/2.d8f16830.chunk.js.map",
     "index.html": "/new-nova-ui/index.html",
-    "precache-manifest.39b6aef06168f503e8751f2a438ede26.js": "/new-nova-ui/precache-manifest.39b6aef06168f503e8751f2a438ede26.js",
+    "precache-manifest.8af6429f09d0601d680d8eeab2d390b4.js": "/new-nova-ui/precache-manifest.8af6429f09d0601d680d8eeab2d390b4.js",
     "service-worker.js": "/new-nova-ui/service-worker.js",
     "static/css/main.3f865fce.chunk.css.map": "/new-nova-ui/static/css/main.3f865fce.chunk.css.map",
     "static/media/index.scss": "/new-nova-ui/static/media/TedNext.b846c33a.woff2"
