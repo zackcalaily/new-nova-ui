@@ -144,6 +144,8 @@ h2 {
     padding: .75rem 1rem;
     width: 6.5rem;
     color: #696969;
+    display: flex;
+    align-items: center;
 }
 
 .sidebar .nav-item .nav-link:hover {
@@ -154,7 +156,7 @@ h2 {
 .sidebar .nav-item .nav-link span {
     font-size: .65rem;
     display: block;
-    margin-left: 2.5rem;
+    margin-left: 0.625rem;
 }
 
 .dashboard,
